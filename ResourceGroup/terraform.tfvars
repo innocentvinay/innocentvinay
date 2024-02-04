@@ -11,4 +11,8 @@ rg = {
     rgname   = "Saw-yug-rg3"
     location = "westus"
   }
+  "rg3" = {
+    rgname   = "Saw-rg3"
+    location = "westus"
+  }
 }
